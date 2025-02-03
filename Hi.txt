@@ -1,2 +1,9 @@
 Hi How are you , I am Subash.
+<<<<<<< Updated upstream
 what about you?
+=======
+Fine.
+>>>>>>> Stashed changes
+
+
+I am from KCE
